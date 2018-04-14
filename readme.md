@@ -47,7 +47,7 @@ echo 'eval "$(rbenv init -)"' >> ~/.bashrc
 Znovu spustit Terminál. V repository adresáři pak spustit:
 
 ```
-rbenv install 2.3.0-dev
+rbenv install 2.4.1-dev
 rbenv local
 gem install rubygems-update
 gem install jekyll bundler
